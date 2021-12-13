@@ -1,6 +1,6 @@
 # CSV Normalization
 
-## What to Expect
+## Introduction
 
 The code within this project intends to normalize (or manipulate) data within a csv file using Python's [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) and Google's [Colaboratory](https://colab.research.google.com/?utm_source=scs-index). Python 3.7.12 ia used; however, older versions may be compatible.
 
