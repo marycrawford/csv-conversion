@@ -9,7 +9,7 @@ The code within this project intends to normalize (or manipulate) data within a 
 
 The following project is implemented using Google's Colaboratory (also know as Colab).  Colab allows you to run Python code in isolation, as well as, manipulate and analyze data within a web browser.  You can create new code or text blocks by hovering over a pre-existing code or text block, then select the + sign.  
 
-![Adding New Code or Text](img/addCodeOrText.png).  
+![Adding New Code or Text](img/addCodeOrText.png)
 
 
 Colab files can be downloaded as a 'ipynb' or 'py'.  In this project, a 'ipynb' file was created.  Ipynb is a notebook document created by Jupyter Notebook.
