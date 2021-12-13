@@ -23,5 +23,5 @@ If you would like to run the web-based version of Jupyter, you can run:
 `python -m notebook` or `jupyter notebook`
 
 If you would like to run Jupyter from the command line, you can run:
-`jupyter nbconvert --execute csv_conversion.ipynb > sampe.csv`
+`jupyter nbconvert --execute csv_normalization.ipynb > sampe.csv`
  
